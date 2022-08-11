@@ -5,7 +5,7 @@ function ListMovies(props) {
 
     return (
         <main className="cards">
-            { props.movies?.length > 0 && props.movies.map(movie => {
+            {  props.movies?.map(movie => {
                 return <Movie movie={movie} selectMovie={props.selectMovie} />
             }) }
 
