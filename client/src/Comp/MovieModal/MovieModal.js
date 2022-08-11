@@ -27,6 +27,12 @@ function MovieModal(props) {
                 <hr />
                 <div>rating: {movie?.imdbRating}</div>
                 <hr />
+                <div>Actors: {movie?.Actors}</div>
+                <hr />
+                <div>Year: {movie?.Year}</div>
+                <hr />
+                <div>Country: {movie?.Country}</div>
+                <hr />
             </div>
 
         </Modal>

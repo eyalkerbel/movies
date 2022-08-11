@@ -28,13 +28,10 @@ function App() {
 
     React.useEffect(() => {
         if (query !== '') {
-
             debouncedFetchData(query, res => {
                 let movieArray = []
                 movieArray.push(res)
                 setResults(movieArray);
-                console.log("results" + " , " + res)
-
             });
         }
     }, [query]);

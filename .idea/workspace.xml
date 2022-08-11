@@ -2,24 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="718e6d52-37e2-4872-9912-a09fe0d39d5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Server/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/Comp/ListMoveis/LIstMovies.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/Comp/ListMoveis/ListMovies.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/Comp/Movie/Movie.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/Comp/Movie/Movie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/Comp/MovieModal/MovieModal.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/Comp/MovieModal/MovieModal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/Comp/SearchInput/SearchInput.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/Comp/SearchInput/SearchInput.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/utils/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/Comp/Movie/Movie.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/Comp/Movie/Movie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/Comp/MovieModal/MovieModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/Comp/MovieModal/MovieModal.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1660061035561</updated>
       <workItem from="1660061037105" duration="1657000" />
-      <workItem from="1660236813512" duration="12785000" />
+      <workItem from="1660236813512" duration="13468000" />
     </task>
     <servers />
   </component>
