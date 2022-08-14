@@ -36,7 +36,6 @@ app.listen(PORT, () => {
 function getMovieByName(name) {
     return new Promise((resolve, reject) => axios.get(`https://www.omdbapi.com/?t=${name}&apikey=9ca06f09`).then(
         function (response) {
-            // console.log('respone' , response.data)
             resolve(response.data);
         })
     )

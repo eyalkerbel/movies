@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="718e6d52-37e2-4872-9912-a09fe0d39d5b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Comp/ListMoveis/LIstMovies.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/Comp/ListMoveis/LIstMovies.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,9 +85,21 @@
       <workItem from="1660061037105" duration="1657000" />
       <workItem from="1660236813512" duration="13468000" />
     </task>
+    <task id="LOCAL-00001" summary="finish">
+      <created>1660257259675</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660257259675</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish" />
   </component>
 </project>
